@@ -4,7 +4,8 @@
   "description": "String Calculator TDD Kata",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "coverage": "jest --coverage"
   },
   "keywords": [],
   "author": "",
